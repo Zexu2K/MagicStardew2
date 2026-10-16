@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="ContentPatcher">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\Mods\ContentPatcher\ContentPatcher.dll</HintPath>
+    </Reference>
+    <Reference Include="Markdig">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Markdig.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Mdb">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Mono.Cecil.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Pdb">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Mono.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoMod.Common">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\MonoMod.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Pathoschild.Http.Client">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Pathoschild.Http.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Pintail">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\Pintail.dll</HintPath>
+    </Reference>
+    <Reference Include="SMAPI.Toolkit">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\SMAPI.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="SMAPI.Toolkit.CoreInterfaces">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\SMAPI.Toolkit.CoreInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Stardew Valley">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\Stardew Valley.dll</HintPath>
+    </Reference>
+    <Reference Include="StardewModdingAPI">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\StardewModdingAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="StardewValley.GameData">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\StardewValley.GameData.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="TMXTile">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\TMXTile.dll</HintPath>
+    </Reference>
+    <Reference Include="VdfConverter">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\smapi-internal\VdfConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="xTile">
+      <HintPath>T:\Stardew Valley\Desputa\Stardew Valley\xTile.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
